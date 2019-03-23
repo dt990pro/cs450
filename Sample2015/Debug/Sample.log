@@ -1,0 +1,20 @@
+﻿  sample.cpp
+c:\users\mojia\documents\450\sample2015\sample.cpp(457): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mojia\documents\450\sample2015\sample.cpp(460): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mojia\documents\450\sample2015\sample.cpp(474): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\sample2015\sample.cpp(475): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\mojia\documents\450\sample2015\sample.cpp(501): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\sample2015\sample.cpp(1262): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\sample2015\sample.cpp(1463): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\sample2015\sample.cpp(1464): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\sample2015\sample.cpp(1465): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\sample2015\sample.cpp(1468): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\sample2015\sample.cpp(1469): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\sample2015\sample.cpp(1470): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\sample2015\sample.cpp(1480): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\sample2015\sample.cpp(1481): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\sample2015\sample.cpp(1485): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\sample2015\sample.cpp(1486): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Sample.vcxproj -> C:\Users\mojia\Documents\450\Sample2015\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)

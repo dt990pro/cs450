@@ -1,0 +1,51 @@
+﻿  final_proj.cpp
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(394): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(568): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(586): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1028): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1033): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1038): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1043): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1561): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1566): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1577): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1578): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1660): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1666): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1667): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1668): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1675): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1676): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1677): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1708): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1709): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1710): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1716): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1718): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1718): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1724): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1726): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1732): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1734): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1734): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1740): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1742): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1748): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1750): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1750): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1756): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1758): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1758): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1767): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1773): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1775): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1781): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1787): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1789): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1795): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1801): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1803): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\mojia\documents\450\final_proj\final_proj.cpp(1809): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+final_proj.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Sample.vcxproj -> C:\Users\mojia\Documents\450\final_proj\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)
